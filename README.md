@@ -1,4 +1,6 @@
 # greetings
+# greetings
+
 # User Greeting Function
 
 A simple JavaScript program that demonstrates how to create a reusable greeting function using **arrow functions**, **template literals**, and **conditional (ternary) operators**.
@@ -13,6 +15,10 @@ Supported time-of-day values:
 * `afternoon` → Good afternoon!
 * `evening` → Good evening!
 * Any other value → Hello!
+
+## 🔗 Project URL
+
+[View Project on GitHub](https://github.com/HammadSamad/greetings.git)
 
 ## 🛠️ Technologies Used
 
