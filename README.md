@@ -17,7 +17,7 @@ Supported time-of-day values:
 
 ## 🔗 Project URL
 
-[View Project on GitHub](https://github.com/HammadSamad/greetings.git)
+[Roadmap.sh Project](https://roadmap.sh/projects/js-greeting-builder)
 
 ## 🛠️ Technologies Used
 
