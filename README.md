@@ -1,5 +1,4 @@
 # greetings
-# greetings
 
 # User Greeting Function
 
