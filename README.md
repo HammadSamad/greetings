@@ -17,7 +17,7 @@ Supported time-of-day values:
 
 ## 🔗 Project URL
 
-[View Project on GitHub](https://github.com/HammadSamad/greetings.git)
+[View Project on GitHub](https://github.com/HammadSamad/greetings/tree/main)
 
 ## 🛠️ Technologies Used
 
